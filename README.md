@@ -2,7 +2,7 @@
 
 RCLONE 
 
-- Configurar rclone con el comando "rclone config"
+- Configurar rclone con el comando `rclone config`
 - Establecer un nombre, el tipo de almacenamiento (drive) y dar los permisos correspondientes
 - Las demás opciones dejaralas por defecto
 - Copiar la carpeta del drive con rclone copy /home/source remote:backup
