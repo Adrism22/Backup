@@ -12,4 +12,5 @@ RESTIC
 - Usar "restic backup [Ruta de la carpeta] --repo [Ruta del repositorio]"
 
 CRONTAB 
+- crontab -e
 - 0 2 * * * /home/asanchez/copia.sh
